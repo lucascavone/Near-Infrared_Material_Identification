@@ -10,3 +10,5 @@ Using a near-infrared spectrometer, I analyzed the reflective properties of 20 d
 During experimentation, nearly every material scanned by the spectrometer was correctly identified except highly transparent and heterogeneous materials where reflectivity can vary quite significantly. My experimentation during this project was primarily to demonstrate proof-of-concept and to establish near-infrared spectroscopy as a viable technology for recycling and material identification. While some near-infrared technology already exists in a handful of recycling plants, the use of an affordable, small-scale spectrometer has viable applications in private and public spheres as a means to quickly identify unnkown materials.
 
 I hope to shed light on a relatively unknown technology with huge potential to solve the plastic pollution crisis and to revolutionize the recycling industry. For further analysis and improvements, please refer to my research paper included in the files.
+
+_Luca Scavone_
